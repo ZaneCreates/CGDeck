@@ -1,5 +1,7 @@
 # CG Deck
 
+![CG Deck Render](cg_deck_render.png)
+
 ## Overview
 **CG Deck** is an open-source, modular, and handheld x86 mini-computer designed for power, portability, and customization. Supporting both Windows and Linux, it brings a desktop-class experience to a handheld form factor.
 
@@ -30,5 +32,5 @@ We are currently gearing up for a major update in **April 2026**. This release w
 We will be releasing new software drivers for the device once we are able to conduct more testing. We plan to implement full compatibility for **Debian, Fedora Silverblue, Ubuntu**, and other popular Linux kernels.
 
 ## License
-© 2026 Mogozen. All rights reserved.
+Â© 2026 Mogozen. All rights reserved.
 Current documentation is provided under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
