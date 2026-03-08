@@ -7,7 +7,7 @@
 
 ## Key Features
 - **Portable Power:** High-performance x86 architecture in your pocket.
-- **OLED Display:** Vibrant and crisp visuals for any environment.
+- **5" Capacitive Touch IPS Display:** Vibrant and crisp visuals for any environment with capacitive touch.
 - **Connectivity:** LTE 4G, Wi-Fi, and Bluetooth support.
 - **Custom Controls:** Ergonomic and customizable input for productivity and gaming.
 - **DIY & Open Source:** Full access to 3D files, schematics, and documentation.
