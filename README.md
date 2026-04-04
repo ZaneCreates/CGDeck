@@ -5,26 +5,29 @@
 ## Overview
 **CG Deck** is an open-source, modular, and handheld x86 mini-computer designed for power, portability, and customization. Supporting both Windows and Linux, it brings a desktop-class experience to a handheld form factor.
 
-## Modularity & Customization
-At the core of the CG Deck is its highly adaptable, modular design. Engineered by [Mogozen](https://mogozen.com) to champion open-source hardware, the device allows you to swap out attachments to fit your exact workflow or gaming style. 
-- **Gaming Controls:** Attach traditional gamepad faces (D-Pad, thumbsticks, action buttons) for on-the-go gaming.
-- **Productivity & Keyboard:** Snap on a tactile physical keyboard module for coding, terminal navigation, and quick messaging.
-- **Creator/Macro Pad:** Equip specialized macro pads, rotary dials, and programmable inputs for design, video editing, or workflow macros.
-- **Expansion Peripherals:** Side-mount and top-mount accessories support hardware add-ons like external cameras and high-gain antennas for advanced networking.
-
 ## Key Features
 - **Portable Power:** High-performance x86 architecture in your pocket.
 - **5" Capacitive Touch IPS Display:** Vibrant and crisp visuals for any environment with capacitive touch.
-- **Connectivity:** LTE 4G, Wi-Fi, and Bluetooth support.
-- **Custom Controls:** Ergonomic and customizable input for productivity and gaming.
-- **DIY & Open Source:** Full access to 3D files, schematics, and documentation.
+- **Connectivity:** LTE 4G, Wi-Fi 7, and Bluetooth support.
+- **Modular Foundation:** Ergonomic and customizable input/output modules for productivity, gaming, tinkering, hacking, home automation, and more.
+- **DIY & Open Source:** Full access to 3D files, schematics, and documentation. Build your own device, customize and create your own hardware & accessories, be a part of a larger maker driven community.
 - **Dual OS Support:** Seamlessly run Windows or Linux.
+
+## Modularity & Customization
+At the core of the CG Deck is its highly adaptable, modular design. The CG Deck is a platform, not just a gadget. The device allows you to quick swap out attachments to fit your exact workflow or gaming style with a USBa connection and custom designed accessory ecosystem. 
+- **Gamepad Controller Module:** Full format gaming controller (D-Pad, thumbsticks, action buttons, settings, turbo buttons) for on-the-go gaming.
+- **Full 64 Key, Keyboard Module:** A tactile physical keyboard module for coding, terminal navigation, and quick messaging.
+- **Creator/Macro Pad:** 10 Key hot swappable mechanical switches + rotary knob. Completely programmable inputs for design, video editing, or workflow macros.
+- **Expansion Peripherals:** Side-mount and top-mount accessories support hardware add-ons like external cameras and high-gain antennas for advanced networking.
+- **Community Made Accessories:** We encourage the community to create and share their own custom modules & accessories for the CG Deck ecosystem! I created the foundation for you to turn into whatever you see fit!
 
 ## Color Variants
 Express your style with multiple color options:
-- **Panda** (Black & White)
+- **Panda** (Black & White) - Official Mogozen X Latte Panda color variant.
 - **Sky Blue**
+- **Field Green**
 - **Cyber Beige**
+- **Retro Grey**
 - **White**
 - **Black**
 
