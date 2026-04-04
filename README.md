@@ -1,6 +1,6 @@
 # CG Deck
 
-![CG Deck Render](cg_deck_render.png)
+![CG Deck Render](CG_Deck_Tri_Color_Render.png)
 
 ## Overview
 **CG Deck** is an open-source, modular, and handheld x86 mini-computer designed for power, portability, and customization. Supporting both Windows and Linux, it brings a desktop-class experience to a handheld form factor.
