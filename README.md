@@ -40,7 +40,7 @@ We are currently gearing up for releasing the project in **April 2026**. This re
 - Full Electronics Schematics (KiCad)
 - Comprehensive Assembly Guide
 - Initial Software Drivers
-*All of the project source files will be published and continuously updated after we successfully wrap up our Kickstarter campaign!*
+- *All of the project source files will be published and continuously updated after we successfully wrap up our Kickstarter campaign!*
 
 ## Software Drivers & Compatibility
 We will be releasing new software and OS drivers for the device once we are able to conduct more testing. 
