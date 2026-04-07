@@ -40,9 +40,17 @@ We are currently gearing up for releasing the project in **April 2026**. This re
 - Full Electronics Schematics (KiCad)
 - Comprehensive Assembly Guide
 - Initial Software Drivers
+*All of the project source files will be published and continuously updated after we successfully wrap up our Kickstarter campaign!*
 
 ## Software Drivers & Compatibility
-We will be releasing new software drivers for the device once we are able to conduct more testing. We plan to implement full compatibility for **Debian, Fedora Silverblue, Ubuntu**, and other popular Linux kernels. Windows 11, 10, 8.1, 8, 7, XP & Vista will have native support from launch.
+We will be releasing new software and OS drivers for the device once we are able to conduct more testing. 
+
+Planned Operating System Support List at Launch: 
+**Linux:** Debian, Fedora Silverblue, Ubuntu, LinuxMint. 
+**Windows:** 11, 10, 8.1, 8, 7, XP & Vista
+
+Planned Custom Software (Mogozen Ecosystem):
+- Controller Module DMC (Digital Modual Customizer): Custom software for customizing control module(s) presets, settings, user settings, hot keys, etc.
 
 ## License
 © 2026 Mogozen. All rights reserved.
