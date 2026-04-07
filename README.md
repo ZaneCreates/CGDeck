@@ -46,8 +46,8 @@ We are currently gearing up for releasing the project in **April 2026**. This re
 We will be releasing new software and OS drivers for the device once we are able to conduct more testing. 
 
 Planned Operating System Support List at Launch: 
-**Linux:** Debian, Fedora Silverblue, Ubuntu, LinuxMint. 
-**Windows:** 11, 10, 8.1, 8, 7, XP & Vista
+- **Linux:** Debian, Fedora Silverblue, Ubuntu, LinuxMint. 
+- **Windows:** 11, 10, 8.1, 8, 7, XP & Vista
 
 Planned Custom Software (Mogozen Ecosystem):
 - Controller Module DMC (Digital Modual Customizer): Custom software for customizing control module(s) presets, settings, user settings, hot keys, etc.
