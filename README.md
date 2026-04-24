@@ -15,17 +15,22 @@
 
 ## Modularity & Customization
 At the core of the CG Deck is its highly adaptable, modular design. The CG Deck is a platform, not just a gadget. The device allows you to quick swap out attachments to fit your exact workflow or gaming style with a USBa connection and custom designed accessory ecosystem. 
-- **Gamepad Controller Module:** Full format gaming controller (D-Pad, thumbsticks, action buttons, settings, turbo buttons) for on-the-go gaming.
-- **Full 64 Key, Keyboard Module:** A tactile physical keyboard module for coding, terminal navigation, and quick messaging.
-- **Creator/Macro Pad:** 10 Key hot swappable mechanical switches + rotary knob. Completely programmable inputs for design, video editing, or workflow macros.
+- **Gamepad Controller Module:** Full format gaming controller (D-Pad, thumbsticks, action buttons, settings, turbo buttons) for on-the-go gaming. Works as a standalone USB-C & Bluetooth Controller.
+- **Full 64 Key, Keyboard Module:** A tactile physical keyboard module for coding, terminal navigation, and quick messaging. Works as a standalone USB-C Keyboard.
+- **Creator/Macro Pad:** 10 Key hot swappable mechanical switches + rotary knob. Completely programmable inputs for design, video editing, or workflow macros. Works as a standalone USB-C macropad.
+- **Trackpad Module:** Secondary module slot Trackball Module for mouse control. RGB Trackball, Left & Right Mouse Click, Middle Mouse Click, Sensitivity +/- & RGB Lighting On/Off. Works as a standalone USB-C mouse.
 - **Expansion Peripherals:** Side-mount and top-mount accessories support hardware add-ons like external cameras and high-gain antennas for advanced networking.
 - **Community Made Accessories:** We encourage the community to create and share their own custom modules & accessories for the CG Deck ecosystem! I created the foundation for you to turn into whatever you see fit!
 
+## Internal Modules/Upgrades: 
+- M2. NVME Expansion card module for 2230, 2280 NVME SSD storage cards. 
+- M2. 4G LTE Sim card Module for mobile coverage.
+- M2. PCIe Expandion Module for utilizing external GPUs (WIP/TBA)
+
 ## Color Variants
 Express your style with multiple color options:
-- **Panda** (Black & White) - Official Mogozen X Latte Panda color variant.
+- **Panda** (Black & White) - Official Mogozen X Latte Panda - Special Edition collaborative color variant/device.
 - **Sky Blue**
-- **Field Green**
 - **Cyber Beige**
 - **Retro Grey**
 - **White**
@@ -33,12 +38,15 @@ Express your style with multiple color options:
 
 ## Project Status: April Release
 We are currently gearing up for releasing the project in **April 2026**. This release will include:
-- Kickstarter Pre-Launch & Launch Dates
+- Kickstarter Pre-Launch, Launch & Roadmap Dates
 - BTS Documentary & Video Publishing
+- Kickstarter & Product Launch Announcement Video
+- Pricing & Packages Announcement
+- Product Packaging Showcase
 
 - Finalized 3D CAD files (.STEP, .STL)
 - Full Electronics Schematics (KiCad)
-- Comprehensive Assembly Guide
+- Comprehensive Assembly Guides
 - Initial Software Drivers
 - *All of the project source files will be published and continuously updated after we successfully wrap up our Kickstarter campaign!*
 
@@ -51,6 +59,7 @@ Planned Operating System Support List at Launch:
 
 Planned Custom Software (Mogozen Ecosystem):
 - Controller Module DMC (Digital Modual Customizer): Custom software for customizing control module(s) presets, settings, user settings, hot keys, etc.
+- ZenOS (Frontend Launcher for Mogozen Devices)
 
 ## License
 © 2026 Mogozen. All rights reserved.
