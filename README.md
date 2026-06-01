@@ -37,13 +37,13 @@ Express your style with multiple official color options:
 - **Black**
 
 ## Shell Options
-- **Standard:** Simple, Smooth & Sleek.No fancy frills or functions.
+- **Standard:** Simple, Smooth & Sleek. No fancy frills or functions.
 - **Field Hacker:** Exposed GPIO pinout for hardware hacking and controlling external devices. 
 
 - **DIY Custom Back & Front Shells:** All 3D Models for the CG Deck will be available for you to customize or design your own shells! Utilizing 3D printing or other DIY manufacturing methods, you can edit our source 3D models for the design and customize your shells to be exactly the way you want. We will have a space for our community to share designs they make, both on our website and discord server. 
 
 ## Project Status: May Release
-We are currently gearing up for releasing the project in **May 2026**. We are now entering Pre-Launch on Kickstarter, and are currently awaiting the approval of our campaign! I will be sending out an email announcement to everyone on our waitlist (https://mogozen.com) when we officially open our Pre-Launch.
+We are currently gearing up for releasing the project **June 2026**. We are entering Pre-Launch on Kickstarter, and are currently awaiting the approval of our campaign! I will be sending out an email announcement to everyone on our waitlist (https://mogozen.com) when we officially open our Pre-Launch.
 
 This release will include:
 - Kickstarter Pre-Launch, Launch & Roadmap Dates
