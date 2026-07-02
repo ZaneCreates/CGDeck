@@ -5,6 +5,9 @@
 ## Overview
 **CG Deck** is an open-source, modular, and handheld x86 mini-computer designed for power, portability, and customization. Supporting both Windows and Linux, it brings a desktop-class experience to a handheld form factor.
 
+Watch our official announcement trailer video on YouTube!
+https://youtu.be/8THKr-71_m8?si=i7m4i2dHxuI3EvKr
+
 ## Key Features
 - **Portable Power:** High-performance x86 architecture in your pocket.
 - **5" Capacitive Touch IPS Display:** Vibrant and crisp visuals for any environment with capacitive touch.
@@ -25,7 +28,7 @@ At the core of the CG Deck is its highly adaptable, modular design. The CG Deck 
 ## Internal Modules/Upgrades
 - M2. NVME Expansion card module for 2230, 2280 NVME SSD storage cards. 
 - M2. 4G LTE Sim card Module for mobile coverage.
-- M2. PCIe Expandion Module for utilizing external GPUs (WIP/TBA)
+- M2. PCIe Expandion Module for utilizing external GPUs (WIP/TBA) - Non-Confirmed.
 
 ## Color Variants
 Express your style with multiple official color options:
@@ -42,8 +45,8 @@ Express your style with multiple official color options:
 
 - **DIY Custom Back & Front Shells:** All 3D Models for the CG Deck will be available for you to customize or design your own shells! Utilizing 3D printing or other DIY manufacturing methods, you can edit our source 3D models for the design and customize your shells to be exactly the way you want. We will have a space for our community to share designs they make, both on our website and discord server. 
 
-## Project Status: June Release
-We are currently gearing up for releasing the project **June 2026**. We are entering Pre-Launch on Kickstarter, and are currently awaiting the approval of our campaign! I will be sending out an email announcement to everyone on our waitlist (https://mogozen.com) when we officially open our Pre-Launch.
+## Project Status: July Release
+We are currently gearing up for releasing the project **July 2026**. We are entering Pre-Launch on Kickstarter, and are currently awaiting the approval of our campaign! I will be sending out an email announcement to everyone on our waitlist (https://mogozen.com) when we officially open our Pre-Launch.
 
 This release will include:
 - Kickstarter Pre-Launch, Launch & Roadmap Dates
