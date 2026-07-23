@@ -1,6 +1,6 @@
 # CG Deck
 
-![CG Deck Render](CG_Deck_Tri_Color_Render.png)
+![CG Deck Render](CG_Deck_Tri_Device_Module_Showcase_Updated_July_23_Transparent_NoShadow.png)
 
 ## Overview
 **CG Deck** is an open-source, modular, and handheld x86 mini-computer designed for power, portability, and customization. Supporting both Windows and Linux, it brings a desktop-class experience to a handheld form factor.
@@ -75,5 +75,5 @@ Planned Custom Software (Mogozen Ecosystem):
 - ZenOS (Frontend Launcher for Mogozen Devices)
 
 ## License
-© 2026 Mogozen. All rights reserved.
+Â© 2026 Mogozen. All rights reserved.
 Current documentation is provided under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
